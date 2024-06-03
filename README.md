@@ -32,6 +32,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 # Multiple Languages
 
+* [OSV Scanner](https://github.com/google/osv-scanner) - Apache-2.0 license, OSV-Scanner [supports](https://google.github.io/osv.dev/data/#current-data-sources) the widest range of languages, data sources, and package ecosystems and is backed by Google
 * [BlackDuck](https://www.blackducksoftware.com/solutions/application-security) :copyright: Open source software security audit
 * [Bytesafe](https://bytesafe.dev/) :copyright: Discover and manage vulnerabilities in your dependencies
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast) :copyright:
@@ -52,6 +53,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 # Vulnerability Databases
 
+* [Open Source Vulnerabilities (OSV)](https://osv.dev/list)
 * [Debricked Vulnerability Database](https://app.debricked.com/en/vulnerability-database)
 * [Exploit Database](https://www.exploit-db.com/webapps/)
 * [National Vulnerability Database](https://nvd.nist.gov/)
